@@ -3,9 +3,14 @@ Interactive graphics program for mesh objects in a 3D scene
 
 External libraries required: GLM, GLFW, GLEW.<br>
 
-To run : cmake ../ ; make ; ./Assignment2_bin<br>
+To run: 
+```
+cmake ../ 
+make 
+./Assignment3_bin
+```
+The output file name can be changed in CMakeLists.txt
 
-The output file name can be changed in CMakeLists.txt.
 
 ### Outputs
 
